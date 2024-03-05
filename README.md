@@ -1,3 +1,6 @@
+### Acknowledgement 
+This work has been funded by the European Union’s Horizon Europe Research and Innovation Programme under Grant Agreement No. 101070670 (ENCRYPT)
+
 ## ENCRYPT Knowledge Graphs
 
 ### Knowledge Graphs Component Modules
