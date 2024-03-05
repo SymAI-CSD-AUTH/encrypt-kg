@@ -1,6 +1,9 @@
 ### Acknowledgement 
 This work has been funded by the European Union’s Horizon Europe Research and Innovation Programme under Grant Agreement No. 101070670 (ENCRYPT)
 
+<img src="https://github.com/SymAI-CSD-AUTH/encrypt-kg/assets/10327074/1ac9e059-6e00-42a8-aa80-6d2dd46a47ec" width="200">
+
+
 ## ENCRYPT Knowledge Graphs
 
 ### Knowledge Graphs Component Modules
